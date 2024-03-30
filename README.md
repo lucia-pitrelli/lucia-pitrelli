@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucia Pitrelli</h1>
 <h3 align="center">👨‍💻 I'm a Full Stack Developer from Buenos Aires, Argentina</h3>
 
-- 📫 How to reach me **pitrelliblucia@gmail.com**
-
-
 <p align="left">
 </p>
 
